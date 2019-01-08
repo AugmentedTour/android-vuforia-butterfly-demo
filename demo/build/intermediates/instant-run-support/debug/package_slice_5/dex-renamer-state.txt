@@ -1,0 +1,4 @@
+#Mon Jan 07 15:31:51 PST 2019
+base.0=C\:\\Users\\Jeka\\Desktop\\capstone\\AndroidTestProject\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
